@@ -1,3 +1,2 @@
 # test-repo  
-:dance:  
-chao feng  
+chao feng
